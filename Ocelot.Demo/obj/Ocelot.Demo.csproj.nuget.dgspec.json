@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nkommareddy\\source\\repos\\Ocelot.Demo\\Ocelot.Demo\\Ocelot.Demo.csproj": {}
+    "D:\\API Gateway POC\\Ocelot.Demo\\Ocelot.Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nkommareddy\\source\\repos\\Ocelot.Demo\\Ocelot.Demo\\Ocelot.Demo.csproj": {
+    "D:\\API Gateway POC\\Ocelot.Demo\\Ocelot.Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nkommareddy\\source\\repos\\Ocelot.Demo\\Ocelot.Demo\\Ocelot.Demo.csproj",
+        "projectUniqueName": "D:\\API Gateway POC\\Ocelot.Demo\\Ocelot.Demo.csproj",
         "projectName": "Ocelot.Demo",
-        "projectPath": "C:\\Users\\nkommareddy\\source\\repos\\Ocelot.Demo\\Ocelot.Demo\\Ocelot.Demo.csproj",
+        "projectPath": "D:\\API Gateway POC\\Ocelot.Demo\\Ocelot.Demo.csproj",
         "packagesPath": "C:\\Users\\nkommareddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nkommareddy\\source\\repos\\Ocelot.Demo\\Ocelot.Demo\\obj\\",
+        "outputPath": "D:\\API Gateway POC\\Ocelot.Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

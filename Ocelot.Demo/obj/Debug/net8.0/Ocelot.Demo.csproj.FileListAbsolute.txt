@@ -36,3 +36,42 @@ C:\Users\nkommareddy\source\repos\Ocelot.Demo\Ocelot.Demo\bin\Debug\net8.0\Ocelo
 C:\Users\nkommareddy\source\repos\Ocelot.Demo\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.csproj.AssemblyReference.cache
 C:\Users\nkommareddy\source\repos\Ocelot.Demo\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\nkommareddy\source\repos\Ocelot.Demo\Ocelot.Demo\obj\Debug\net8.0\Ocelot.D.8C5A17AE.Up2Date
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\appsettings.Development.json
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\appsettings.json
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\ocelot.json
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Ocelot.Demo.exe
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Ocelot.Demo.deps.json
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Ocelot.Demo.runtimeconfig.json
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Ocelot.Demo.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Ocelot.Demo.pdb
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\FluentValidation.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\IPAddressRange.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\API Gateway POC\Ocelot.Demo\bin\Debug\net8.0\Ocelot.dll
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.csproj.AssemblyReference.cache
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.AssemblyInfoInputs.cache
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.AssemblyInfo.cs
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.csproj.CoreCompileInputs.cache
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.MvcApplicationPartsAssemblyInfo.cs
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.sourcelink.json
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets.build.json
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets.development.json
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets\msbuild.Ocelot.Demo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Ocelot.Demo.props
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ocelot.Demo.props
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ocelot.Demo.props
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\scopedcss\bundle\Ocelot.Demo.styles.css
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.D.8C5A17AE.Up2Date
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.dll
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\refint\Ocelot.Demo.dll
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.pdb
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\Ocelot.Demo.genruntimeconfig.cache
+D:\API Gateway POC\Ocelot.Demo\obj\Debug\net8.0\ref\Ocelot.Demo.dll
