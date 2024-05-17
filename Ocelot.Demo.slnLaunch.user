@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Ocelot.Demo\\Ocelot.Demo.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "API\\API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
